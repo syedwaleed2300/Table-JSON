@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: skyblue;
+    font-family: sans-serif;
+    min-height: 100vh;
+    color: whitesmoke;
+}
+table{
+    width: 1000px;
+    margin: 30px auto;
+}
+table th{
+    padding: 10px 0;
+    background-color: black;
+    border: thin solid cornsilk;
+}
+table td{
+    padding: 10px;
+    border: thin solid gray;
+    width: 20px;
+    text-align: center;
+    background-color: lightcoral;
+}
+table img{
+    width: 80%;
+}

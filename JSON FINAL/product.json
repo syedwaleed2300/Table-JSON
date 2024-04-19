@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "image": "golf.webp",
+        "name": "Kit",
+        "price": "$92.99",
+        "inventory": 15,
+        "productcode": "BD098"
+    },
+    {
+        "id": 2,
+        "image": "golf2.webp",
+        "name": "Callaway Golf Jaws Full Toe Wedge",
+        "price": "$112.00",
+        "inventory": 6,
+        "productcode": "BM231"
+    },
+    {
+        "id": 3,
+        "image": "shoes.webp",
+        "name": "GOLF SHOES HYPERFLEX 51044",
+        "price": "$89.99",
+        "inventory": 18,
+        "productcode": "BM123"
+    },
+    {
+        "id": 4,
+        "image": "watch.webp",
+        "name": "Garmin Instinct 2 Rugged GPS Multisport",
+        "price": "$219.99",
+        "inventory": 30,
+        "productcode": "WB876"
+    },
+    {
+        "id": 5,
+        "image": "camera.webp",
+        "name": "[Exc+5] OLYMPUS ZUIKO DIGITAL 9-18mm",
+        "price": "$189.00",
+        "inventory": 25,
+        "productcode": "CB109"
+    },
+    {
+        "id": 6,
+        "image": "box.jpg",
+        "name": "Briggs & Riley ZDX ",
+        "price": "$360.00",
+        "inventory": 32,
+        "productcode": "LB005"
+    },
+    {
+        "id": 7,
+        "image": "bow.webp",
+        "name": "Compound Bow Hunting Arrows",
+        "price": "$186.11",
+        "inventory": 50,
+        "productcode": "BD093"
+    },
+    {
+        "id": 8,
+        "image": "skate.webp",
+        "name": "Electric Skateboard Kids Automatic Skateboard Electric",
+        "price":"$310.00",
+        "inventory": 11,
+        "productcode": "SM502"
+    }
+]
